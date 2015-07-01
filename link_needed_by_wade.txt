@@ -1,0 +1,3 @@
+.vim -> wade/vim_plug_src/.vim/
+
+.vimrc -> wade/vim_plug_src/.vimrc*
